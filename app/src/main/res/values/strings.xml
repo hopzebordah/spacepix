@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SpacePix</string>
+    <string name="title_home">Home</string>
+    <string name="title_sorter">Sorter</string>
+    <string name="fetch_random">Random</string>
+    <string name="download">Download</string>
+    <string name="chooseDate">Choose Date</string>
+    <string name="fake_timestamp">2020-03-05</string>
+    <string name="sort">Sort</string>
+    <string name="reset">Reset</string>
+    <string name="floor">Floor</string>
+    <string name="ceiling">Ceiling</string>
+    <string name="hue">Hue</string>
+    <string name="brightness">Brightness</string>
+</resources>
